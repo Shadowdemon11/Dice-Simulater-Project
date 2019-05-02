@@ -1,0 +1,9 @@
+F:\Programing year 2\Hw_4\Dice Simulater\bin\Debug\Dice Simulater.exe.config
+F:\Programing year 2\Hw_4\Dice Simulater\bin\Debug\Dice Simulater.exe
+F:\Programing year 2\Hw_4\Dice Simulater\bin\Debug\Dice Simulater.pdb
+F:\Programing year 2\Hw_4\Dice Simulater\obj\Debug\Dice_Simulater.diceSimulator.resources
+F:\Programing year 2\Hw_4\Dice Simulater\obj\Debug\Dice_Simulater.Properties.Resources.resources
+F:\Programing year 2\Hw_4\Dice Simulater\obj\Debug\Dice Simulater.csproj.GenerateResource.Cache
+F:\Programing year 2\Hw_4\Dice Simulater\obj\Debug\Dice Simulater.exe
+F:\Programing year 2\Hw_4\Dice Simulater\obj\Debug\Dice Simulater.pdb
+F:\Programing year 2\Hw_4\Dice Simulater\obj\Debug\Dice Simulater.csprojResolveAssemblyReference.cache
